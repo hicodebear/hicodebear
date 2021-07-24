@@ -2,7 +2,6 @@
 
 - 🐵 工作: 字节跳动(Bytedace)、旷视科技(Face++)前员工
 - 👨‍💻 竞赛: ACM-ICPC亚洲区域赛金牌、CCPC省赛冠军🏆
-- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
 - 🌱 干货：[计算机学习核心资料](https://mp.weixin.qq.com/s/AgoVT6LkHojzG6ixbWgGJw)
 - 👭 LeetCode组队刷题群
 - 💬 微信：hicodebear
