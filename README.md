@@ -1,6 +1,14 @@
-<img src="https://github-readme-stats.vercel.app/api?username=hicodebear&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+## 我是编程熊🐻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodebear)](https://github.com/hicodebear/leetcode-algorithm)
+- 🐵 工作: 字节跳动(Bytedace)、旷视科技(Face++)前员工
+- 👨‍💻 竞赛: ACM-ICPC亚洲区域赛金牌、CCPC省赛冠军🏆
+- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
+- 🌱 干货：[计算机学习核心资料](https://mp.weixin.qq.com/s/AgoVT6LkHojzG6ixbWgGJw)
+- 👭 LeetCode组队刷题群
+- 💬 微信：hicodebear
+- 🤔 知乎：[编程熊](https://www.zhihu.com/people/yu-ming-58-91)
+- 🏡 宝藏仓库: [leetcode-algorithm](https://github.com/hicodebear/leetcode-algorithm)
+- 👭 LeetCode组队刷题群
 
 ## ヾ(@^▽^@)ノ
  
@@ -18,11 +26,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [将命令行工具转为 Web 页面？](https://lucifer.ren/blog/2021/07/05/ttw/)
-- [从零实现 vite（先导篇）](https://lucifer.ren/blog/2021/07/03/mono-vite/)
-- [一个可以让你肆意摸鱼的 vscode 插件](https://lucifer.ren/blog/2021/06/23/moyu-1/)
-- [我离职了~](https://lucifer.ren/blog/2021/06/18/quit-esign/)
-- [手把手教你刷搜索](https://lucifer.ren/blog/2021/06/02/search/)
+- [计算机学习核心资料](https://mp.weixin.qq.com/s/AgoVT6LkHojzG6ixbWgGJw)
 <!-- BLOG-POST-LIST:END -->
 
 
