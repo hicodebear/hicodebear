@@ -10,4 +10,4 @@
 - 👭 LeetCode组队刷题群
 
 
-<img width="576" alt="正视图" src="https://cdn.jsdelivr.net/gh/hicodebear/images/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
+<img width="576" alt="正视图" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
