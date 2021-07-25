@@ -6,7 +6,7 @@
 - 👭 [LeetCode组队刷题群](https://mp.weixin.qq.com/s/TsTcCDboXwnTnUeIW3Zg9Q)
 - 💬 微信：[hicodebear](https://gitee.com/hicodebear/upic/raw/master/uPic/%E7%BC%96%E7%A8%8B%E7%86%8A%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 - 🤔 知乎：[编程熊](https://www.zhihu.com/people/yu-ming-58-91)
-- 🏡 宝藏仓库: [leetcode-algorithm](https://github.com/hicodebear/leetcode-algorithm)
+- 🏡 宝藏仓库: [leetcode-algo](https://github.com/hicodebear/leetcode-algorithm)
 
 
 
